@@ -1,0 +1,10 @@
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\bin\Debug\TPVleontini.exe.config
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\bin\Debug\TPVleontini.exe
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\bin\Debug\TPVleontini.pdb
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\obj\Debug\TPVleontini.csprojResolveAssemblyReference.cache
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\obj\Debug\TPVleontini.Form1.resources
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\obj\Debug\TPVleontini.Properties.Resources.resources
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\obj\Debug\TPVleontini.csproj.GenerateResource.Cache
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\obj\Debug\TPVleontini.exe
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\obj\Debug\TPVleontini.pdb
+C:\Users\JuanPablo\Documents\Visual Studio 2012\Projects\TPVleontini\TPVleontini\obj\Debug\TPVleontini.Form2.resources
